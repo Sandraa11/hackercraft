@@ -1,0 +1,109 @@
+{
+  "AdsController": {
+
+    "AdNetwork": "admob",
+
+    "AdMob_ID": "pub-3940256099942544",
+    "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd": "ca-app-pub-3940256099942544/5224354917",
+
+
+  },
+
+
+
+
+  "Skins": [
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/28/hacker-21555640.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/28/hacker-21555640.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/11/prezydent-hacker-21505963.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/11/prezydent-hacker-21505963.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/08/hacker-von-sure-ber-gossen-21499000.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/08/hacker-von-sure-ber-gossen-21499000.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/30/k-sign-hacker-21468661.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/03/30/k-sign-hacker-21468661.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/23/hacker-girl-21541953.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/23/hacker-girl-21541953.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/24/hacker-njoypp-21546018.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/24/hacker-njoypp-21546018.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/27/hack1721-yt-21552658.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/27/hack1721-yt-21552658.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/19/soul-wanderer-of-the-computer-virus-21531678.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/19/soul-wanderer-of-the-computer-virus-21531678.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/21/secret-hacker-21534550.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/21/secret-hacker-21534550.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/21/el-hacker-21535455.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/21/el-hacker-21535455.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/14/infected-hacker-21513892.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/14/infected-hacker-21513892.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/02/tech-tyler-21480584.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/02/tech-tyler-21480584.png",
+      "locked": true
+    }
+
+  ],
+
+
+  "AppsPromote": [
+    {
+      "name": "Minecraft PE skyblock",
+      "packageName": "com.andiqwer.skyblock_maps",
+      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Houses Maps",
+      "packageName": "com.andiqwer.house_maps",
+      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Guns Mods",
+      "packageName": "com.AndiQwer.GunMods",
+      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Cars Mods",
+      "packageName": "com.andiqwer.car_mods",
+      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+      "download": "+50 Million"
+    }
+  ]
+}
